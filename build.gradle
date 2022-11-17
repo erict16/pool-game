@@ -27,7 +27,7 @@ test {
 }
 
 application {
-    mainClass = 'Main'
+    mainClass = 'factory.buttons.Demo'
 }
 
 javadoc {
