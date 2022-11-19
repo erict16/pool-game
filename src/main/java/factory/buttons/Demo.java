@@ -17,7 +17,7 @@ public class Demo {
      * configuration environment option
      */
     private static void configure() {
-        if (System.getProperty("as.name").equals("Windows 10")) {
+        if (System.getProperty("os.name").equals("Windows 10")) {
             dialog = new WindowsDialog();
         } else {
             dialog = new HtmlDialog();
