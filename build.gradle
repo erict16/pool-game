@@ -27,7 +27,7 @@ test {
 }
 
 application {
-    mainClass = 'factory.buttons.Demo'
+    mainClass = 'PoolGame.App'
 }
 
 javadoc {
