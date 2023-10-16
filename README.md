@@ -2,7 +2,8 @@
 # 1. Overview
 A simple pool game with JavaFx extension. Using the mouse to hit the cue ball, to kicking all the other balls into the pockets, you will win the game! Also there is timer and score system in the game, there will keep showing until you win or quit the game. For score, different color matches different score. Red: 1, Yellow: 2, Green: 3, Brown: 4, Blue: 5, Purple: 6, Black: 7, Orange: 8. After you win the game, the score and the time duration will show on the screen.
 
-<img width="699" alt="image" src="https://user-images.githubusercontent.com/83531295/217374976-7db81518-f314-478a-935d-384a8551972b.png">
+<img width="1199" alt="Xnapper-2023-10-16-20 26 04" src="https://github.com/erict16/pool-game/assets/83531295/02b85f8c-e968-419f-b54e-b345c9fce04c">
+
 
 
 # 2. How to run the program
